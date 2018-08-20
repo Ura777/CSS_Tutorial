@@ -1,11 +1,11 @@
 # CSS_Tutorial
 ## 目錄
-* [環境設置]()
-* [Java環境變數設置]()
-* [Visual Studio Code相關設定]()
-* [課程介紹]()
-  * [Ch01 - Tomcat的管理]()
-  * [Ch02- 基本的CSS]()
+* [環境設置](https://github.com/Ura777/CSS_Tutorial#%E7%92%B0%E5%A2%83%E8%A8%AD%E7%BD%AE)
+* [Java環境變數設置](https://github.com/Ura777/CSS_Tutorial#java%E7%92%B0%E5%A2%83%E8%AE%8A%E6%95%B8%E8%A8%AD%E7%BD%AE)
+* [Visual Studio Code相關設定](https://github.com/Ura777/CSS_Tutorial#visual-studio-code%E7%9B%B8%E9%97%9C%E8%A8%AD%E5%AE%9A)
+* [課程介紹](https://github.com/Ura777/CSS_Tutorial#%E8%AA%B2%E7%A8%8B%E4%BB%8B%E7%B4%B9)
+  * [Ch01 - Tomcat的管理](https://github.com/Ura777/CSS_Tutorial#ch01---tomcat%E7%9A%84%E7%AE%A1%E7%90%86)
+  * [Ch02- 基本的CSS](https://github.com/Ura777/CSS_Tutorial#ch02--%E5%9F%BA%E6%9C%AC%E7%9A%84css)
 * * *
 ## 環境設置
 * 作業系統 = Windows 7
@@ -93,7 +93,7 @@
 * * *
 ## Ch02- 基本的CSS
 * CSS
-  * 階層式式表
+  * 階層式樣式表
   * Cascading Style Sheet
   * 選擇器(Selector)與規則(rule)組成
   * 規則內為屬性:值
