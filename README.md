@@ -7,6 +7,7 @@
   * [Ch01 - Tomcat的管理](https://github.com/Ura777/CSS_Tutorial#ch01---tomcat%E7%9A%84%E7%AE%A1%E7%90%86)
   * [Ch02- 基本的CSS](https://github.com/Ura777/CSS_Tutorial#ch02--%E5%9F%BA%E6%9C%AC%E7%9A%84css)
   * [Ch03 - 字型、文字與清單](https://github.com/Ura777/CSS_Tutorial#ch03---%E5%AD%97%E5%9E%8B%E6%96%87%E5%AD%97%E8%88%87%E6%B8%85%E5%96%AE)
+  * [Ch04 - Box Model]()
 * * *
 ## 環境設置
 * 作業系統 = Windows 7
@@ -163,7 +164,26 @@
 * list-style-position
   * 項目位置
 * list-style
-  * 整合了list-style-type、list-style-position與list-style-image
+  * 可以同時設定list-style-type、list-style-position與list-style-image。
+* * *
+## Ch04 - Box Model
+* margin
+  * 邊界
+* border-style
+  * 邊框樣式
+* border-width
+  * 邊框寬度
+* border-color
+  * 邊框顏色
+* border
+  * 邊框綜合設定
+  * 可以同時設定border-color、border-width與border-style。
+* border-radius
+  * 邊框導圓角
+* border-image
+  * 圖片邊框
+* padding
+  * 邊界留白
 * * *
 
 
