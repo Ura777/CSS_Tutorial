@@ -6,6 +6,7 @@
 * [課程介紹](https://github.com/Ura777/CSS_Tutorial#%E8%AA%B2%E7%A8%8B%E4%BB%8B%E7%B4%B9)
   * [Ch01 - Tomcat的管理](https://github.com/Ura777/CSS_Tutorial#ch01---tomcat%E7%9A%84%E7%AE%A1%E7%90%86)
   * [Ch02- 基本的CSS](https://github.com/Ura777/CSS_Tutorial#ch02--%E5%9F%BA%E6%9C%AC%E7%9A%84css)
+  * [Ch03 - 字型、文字與清單]()
 * * *
 ## 環境設置
 * 作業系統 = Windows 7
@@ -131,6 +132,38 @@
     * [attribute ^= "value"] -> 屬性開頭有value
     * [attribute $= "value"] -> 屬性最後有value
     * [attribute *= "value"] -> 屬性有出現value
+* * *
+## Ch03 - 字型、文字與清單
+* color
+  * 文字顏色
+* font-family
+  * 字體
+* font-size
+  * 字體大小
+* font-style
+  * 文字斜體
+* font-weight
+  * 文字粗體
+* text-align
+  * 文字對齊方式
+* text-indent
+  * 首行縮排
+* letter-spacing
+  * 字元間距
+* word-spacing
+  * 文字間距
+* line-height
+  * 行高
+* text-show
+  * 文字陰影
+* list-style-type
+  * 項目符號與編號類型
+* list-style-image
+  * 圖片項目符號
+* list-style-position
+  * 項目位置
+* list-style
+  * 整合了list-style-type、list-style-position與list-style-image
 * * *
 
 

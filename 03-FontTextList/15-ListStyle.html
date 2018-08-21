@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<!-- 清單樣式 -->
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>清單樣式</title>
+        <style>
+            /*list-style整合了list-style-type、list-style-position與list-style-image。*/
+            ul{
+                list-style: lower-greek outside url("image/item.png");
+            }
+
+            ul.compact{
+                list-style: upper-roman inside;
+            }
+        </style>
+    </head>
+    <body>
+        <ul>
+            <li>▇▇野鳥</li>
+        </ul>
+        <ul class="compact">
+            <li>
+                黑面琵鷺最早的棲息地是▇▇及▇▇的▇▇▇▇，但近年來他們覓著了一個新的棲息地，那就是▇▇▇▇的▇▇▇▇▇▇。
+            </li>
+            <li>
+                赤腹鷹的棲息地在▇▇、▇▇一帶，只要一到每年的▇、▇月，赤腹鷹就會成群結隊的到▇▇過冬，愛鷹的人士可千萬不能錯過。
+            </li>
+        </ul>
+    </body>
+</html>
