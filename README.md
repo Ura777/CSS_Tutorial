@@ -8,6 +8,7 @@
   * [Ch02- 基本的CSS](https://github.com/Ura777/CSS_Tutorial#ch02--%E5%9F%BA%E6%9C%AC%E7%9A%84css)
   * [Ch03 - 字型、文字與清單](https://github.com/Ura777/CSS_Tutorial#ch03---%E5%AD%97%E5%9E%8B%E6%96%87%E5%AD%97%E8%88%87%E6%B8%85%E5%96%AE)
   * [Ch04 - Box Model](https://github.com/Ura777/CSS_Tutorial#ch04---box-model)
+  * [Ch05 - 網頁元件定位、超連結樣式與自訂滑鼠游標]()
 * * *
 ## 環境設置
 * 作業系統 = Windows 7
@@ -184,6 +185,45 @@
   * 圖片邊框
 * padding
   * 邊界留白
+* * *
+## Ch05 - 網頁元件定位、超連結樣式與自訂滑鼠游標
+* position
+  * 位置
+  * 共有2種
+    * absolute
+    * relative
+* left
+  * 設定X軸的數值
+  * 向右為正數
+* top
+  * 設定Y軸的數值
+  * 向下為正數
+* z-index
+  * 決定圖層的上下次序
+  * 數值越大越上面
+* overflow
+  * 超出邊界的顯示方式
+  * 共有4種
+    * auto
+    * hidden
+    * scroll
+    * visible(預設值)
+* float
+  * 浮動
+  * 可以使用float來達到文繞圖的效果
+* clear
+  * 清除float
+* 自訂超連結樣式
+  * a:link
+    * 尚未連結過的超連結
+  * a:visited
+    * 已經連結過的超連結
+  * a:hover
+    * 當滑鼠游標在超連結上方時
+  * a:active
+    * 點選超連結時
+* cursor
+  * 可以自訂滑鼠游標圖案
 * * *
 
 
