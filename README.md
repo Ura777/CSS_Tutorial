@@ -9,7 +9,7 @@
   * [Ch03 - 字型、文字與清單](https://github.com/Ura777/CSS_Tutorial#ch03---%E5%AD%97%E5%9E%8B%E6%96%87%E5%AD%97%E8%88%87%E6%B8%85%E5%96%AE)
   * [Ch04 - Box Model](https://github.com/Ura777/CSS_Tutorial#ch04---box-model)
   * [Ch05 - 網頁元件定位、超連結樣式與自訂滑鼠游標](https://github.com/Ura777/CSS_Tutorial#ch05---%E7%B6%B2%E9%A0%81%E5%85%83%E4%BB%B6%E5%AE%9A%E4%BD%8D%E8%B6%85%E9%80%A3%E7%B5%90%E6%A8%A3%E5%BC%8F%E8%88%87%E8%87%AA%E8%A8%82%E6%BB%91%E9%BC%A0%E6%B8%B8%E6%A8%99)
-  * [Ch06 - 顏色、背景與漸層]()
+  * [Ch06 - 顏色、背景與漸層](https://github.com/Ura777/CSS_Tutorial#ch06---%E9%A1%8F%E8%89%B2%E8%83%8C%E6%99%AF%E8%88%87%E6%BC%B8%E5%B1%A4)
 * * *
 ## 環境設置
 * 作業系統 = Windows 7
